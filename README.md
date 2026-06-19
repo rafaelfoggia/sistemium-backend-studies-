@@ -1,4 +1,3 @@
-# Apresentação
 
 ## Olá, pessoal!
 
