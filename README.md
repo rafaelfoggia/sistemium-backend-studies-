@@ -14,6 +14,11 @@ Hoje, entro na **Sistemium** com o objetivo de aprender, evoluir profissionalmen
 
 Meu foco inicial será o **desenvolvimento backend**, buscando aprofundar meus conhecimentos em lógica, arquitetura e construção de sistemas. No entanto, pretendo expandir minhas habilidades ao longo do tempo para me tornar um **desenvolvedor full stack**.
 
+ ## Observações
+
+Exercícios desenvolvidos para prática de lógica em Python.
+
+
 ## Considerações Finais
 
 Estou animado para fazer parte da equipe, aprender com os profissionais da empresa e contribuir da melhor forma possível para os desafios que surgirem.
